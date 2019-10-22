@@ -1,6 +1,6 @@
 {
     "Name": "The Reading Brain Project L1 Adults",
-    "License": "CC",
+    "License": "CC0",
     "Authors": [
         "Ping Li",
         "Chun-Ting Hsu",
@@ -22,5 +22,5 @@
         "http://blclab.org/reading_brain"
     ],
     "BIDSVersion": "1.1.0",
-    "DatasetDOI": "10.18112/openneuro.ds001980.v1.0.2"
+    "DatasetDOI": "10.18112/openneuro.ds002247.v1.0.0"
 }
